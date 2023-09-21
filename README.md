@@ -2,7 +2,7 @@
 
 This is an issue that pertains to the Packwiz Installer. The error occurs while running the pre-launch bootstrap.
 
-For some reason, Packwiz does not download [BlossomEnderChest](https://modrinth.com/mod/blossomenderchest/)
+For some reason, Packwiz does not download [BlossomEnderChest 2.0.2+1.20](https://modrinth.com/mod/blossomenderchest/)
 and its dependency [BlossomLib](https://modrinth.com/mod/blossomlib), but it does still download other mods
 (in this case, [ModernFix](https://modrinth.com/mod/modernfix/) and [Mod Menu](https://modrinth.com/mod/modmenu/)).
 
