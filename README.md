@@ -1,4 +1,4 @@
-# Packwiz Mod Install Fail
+# Packwiz Mod Install Fails - Bug Reproduction
 
 For some reason, Packwiz does not download [BlossomEnderChests](https://modrinth.com/mod/blossomenderchest/)
 and its dependency [BlossomLib](https://modrinth.com/mod/blossomlib), but it does still download other mods
