@@ -10,8 +10,9 @@ and its dependency [BlossomLib](https://modrinth.com/mod/blossomlib), but it doe
 
 To run this bug reproduction modpack:
 
-1. Download and import the Auto Updating instance from the Releases in [Prism Launcher](https://prismlauncher.org/)
-2. Run the instance
-3. When the loader update prompt appears, click "Continue Anyways".
-4. Check the console - it will say BlossomEnderChest is checked and downloaded
-5. The mods aren't even in the mods folder... How peculiar! However, ModernFix and Mod Menu did indeed download properly.
+1. Download the Auto Updating instance from [this repository's releases](https://github.com/Treeway7/PackwizModDownloadFails/releases/).
+2. Import it in [Prism Launcher](https://prismlauncher.org/).
+3. Run the instance.
+4. When the loader update prompt appears, click "Continue Anyways".
+5. Check the console - it will say BlossomEnderChest and BlossomLib is checked and downloaded..?
+6. The mods aren't even in the mods folder... How peculiar! However, ModernFix and Mod Menu did indeed download properly.
